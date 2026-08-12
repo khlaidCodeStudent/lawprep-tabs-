@@ -1,0 +1,39 @@
+h1{
+  text-align:center;
+  font-size:40px;
+}
+.tabsouter{
+  width:1170px;
+  margin:auto;
+}
+.tabsouter ul{
+  list-style:none;
+  padding:0;
+  margin:0;
+  display:flex;
+  justify-content:space-between;
+}
+.tabsouter ul li{
+  width:100%;
+  text-align:center;
+  padding:10px 0;
+ 
+ 
+ 
+}
+.tabsouter ul li button{
+  background:#ccc;
+  border:none;
+  font-size:20px;
+  cursor:pointer;
+  
+}
+.activebutton{
+  color:white !important;
+  background:red !important;
+}
+p{
+  font-size:20px;
+  text-align:center;
+  border:1px solid #ccc;
+}
